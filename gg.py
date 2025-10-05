@@ -1,1 +1,2 @@
-print("Hello World!")
+a = input('Введите число: ')
+b = input('Введите число: ')
